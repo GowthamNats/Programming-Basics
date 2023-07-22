@@ -52,8 +52,6 @@ World`;
 console.log(`${msg}`); // Output: "Hello World"
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-template-strings-dwj699?file=/src/index.js)**
-
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
 </div>
@@ -75,8 +73,6 @@ console.log(sum.apply(null, numbers)); // 60
 console.log(sum(...numbers)); // 60
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-spread-operator-25tmcf?file=/src/index.js)**
-
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
 </div>
@@ -95,8 +91,6 @@ Output:
 ```js
 ['Apple', 'Orange', 'Banana']
 ```
-
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-spread-operator-wy1q0l?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -119,8 +113,6 @@ Output:
 ['A', 'B', 'C', 'X', 'Y', 'Z']
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-spread-operator-m7v6gg?file=/src/index.js)**
-
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
 </div>
@@ -140,7 +132,7 @@ Output:
 ['Cherry', 'Apple', 'Orange', 'Banana']
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-spread-operator-16l7oh?file=/src/index.js)**
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -164,7 +156,7 @@ Output:
 Fruits: Apple, Orange and Banana
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-spread-operator-jdhoe6?file=/src/index.js)**
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -207,7 +199,6 @@ console.log(numbers); Set(5) { 10, 20, 30, 40, 50 }
 console.log(typeof numbers); // Object
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-sets-chwvp0)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -223,7 +214,6 @@ function add(x = 10, y = 20) {
 add(10, 30); // 40
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-default-parametrs-tjw9uk?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -247,7 +237,6 @@ Hello World
 Hello World
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-repeat-d3ko3z?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -261,7 +250,6 @@ let add = (x, y) => x + y;
 console.log(add(10, 20)); // 30
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-arrow-function-ejlrmf?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -294,7 +282,6 @@ Diksha likes to hike
 Diksha likes to ski
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-arrow-function-kh1v84?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -315,7 +302,6 @@ console.log(price); // 999
 console.log(description); // The iPhone is a smartphone developed by Apple
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-destructing-assignment-0c0fzl?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -338,7 +324,6 @@ console.log(gen.next().value); // 30
 console.log(gen.next().value); // 40
 ```  
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-generators-pboss2?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -358,7 +343,6 @@ console.log(symbol3.toString()); // Symbol(Hi)
 console.log(Symbol("Hi") === Symbol("Hi")); // false
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-symbols-5oedjv?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -377,7 +361,6 @@ console.log(iterateIt.next().value); //output: S
 console.log(iterateIt.next().value); //output: 6
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-iterator-ceqbrw?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -432,7 +415,6 @@ console.log(getValue()); // 100
 * Outside of strict mode, however, if you assign a value to a name that has not been declared with `let`, `const`, or `var`, you\'ll end up creating a new global variable. It will be global no matter how deeply nested within functions and blocks your code is, which is almost certainly not what you want, is bug-prone, and is one of the best reasons for using strict mode!
 * Global variables created in this accidental way are like global variables declared with `var`: they define properties of the global object. But unlike the properties defined by proper var declarations, these properties can be deleted with the delete operator.
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-global-variables-b4isqk?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -554,7 +536,6 @@ b = 'qux';
 console.log(b) // TypeError: Assignment to constant variable.
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-variables-declaration-fmrkjz?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -614,7 +595,6 @@ They will only get initialized when their lexical binding (assignment) is evalua
 
 *Note: JavaScript only hoists declarations, not initialisation*
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-hoisting-l745nc?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -825,7 +805,6 @@ Output:
 Good Evening
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-precedence-n1ve75?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -851,7 +830,6 @@ function Hoist(val) {
 Hoist(20); // 20
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-variable-shadowing-dvibcw?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -881,7 +859,6 @@ console.log(context.getCurrentContext()); // 10
 
 *Note: 'self' should not be used this way anymore, since modern browsers provide a global variable self pointing to the global object of either a normal window or a WebWorker.*
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-self-this-k1w0e8?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -898,7 +875,6 @@ console.log(x); // 20
 console.log(y); // 10
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-destructuring-sv99cd?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -1255,7 +1231,6 @@ Below are the list of bit-wise logical operators used in JavaScript
 |`5 >> 1`	| 2	        |0101 >> 1	  |0010      |
 |5 >>> 1	| 2	        |0101 >>> 1	  |0010      |
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-bitwise-operators-nnz00d?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -1290,7 +1265,6 @@ null === undefined // false
 {} === {} // false, refer different objects in memory
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-comparison-0y16ii?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -1336,7 +1310,6 @@ const i = function () {
 console.log(typeof i); // "function"
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-typeof-jesw53?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -1358,7 +1331,6 @@ var b = +a;
 console.log(typeof a, typeof b, b); // string, number, NaN
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-unary-operator-ld2luh?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -1457,7 +1429,6 @@ a instanceof String; // returns false
 b instanceof String; // returns true
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-typeof-operator-9uejl1?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -1500,7 +1471,6 @@ function getRandomNumber(max) {
 console.log(getRandomNumber(10)); // returns a random integer from 1 to 10
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-random-number-slllvd?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -1520,7 +1490,6 @@ typeof NaN // Number
 Number.isNaN('Hello'); // false
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-isnan-6w1huz?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -1543,7 +1512,6 @@ Number.isFinite(null); // false
 Number.isFinite("123") // false
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-isfinite-5sl988?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -1579,7 +1547,6 @@ console.log("Math.log(0): " + Math.log(0)); // -Infinity
 console.log(Number.NEGATIVE_INFINITY === -2 * Number.MAX_VALUE); // true
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-negative-infinity-1gmh0r?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -1632,7 +1599,6 @@ console.log(numbers); // Original array is mutated.
 | Returns the subset of original array | Returns the deleted elements as array  |
 | Used to pick the elements from array | Used to insert or delete elements to/from array|
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-slice-vs-splice-xm7c54?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -1679,7 +1645,6 @@ str.includes('PHP') // false
 str.includes('Node', 5) //true
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-substring-su64zr?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -1725,7 +1690,6 @@ const phoneNumber = "\t  80-555-123\n ";
 console.log(phoneNumber.trimEnd()); // => " 80-555-123"
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-trim-4mo5bi?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -1759,7 +1723,6 @@ eval(expression.toString()); // returns 30
 
 Warning: *Executing JavaScript from a string is an enormous security risk. It is far too easy for a bad actor to run arbitrary code when you use eval().*
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-eval-p9fxgs?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -1776,7 +1739,6 @@ console.log(str.startsWith("Hello")); // true
 console.log(str.startsWith("World")); // false
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-startswith-tvq7i5?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -1831,7 +1793,6 @@ let fruits = ["Apple", "Orange", "Plum", "Mango"];
 fruits.push("Grapes");  // Adds a new element (Grapes) to fruits
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-array-y73m66?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -1874,7 +1835,6 @@ name = Sakshi Memon
 email = sakshi.memon@email.com 
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-associative-arrays-vxc4qc?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -1921,7 +1881,6 @@ const employee = {
 Object.getOwnPropertyNames(employee).length; // Output 3
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-associative-arrays-qye2t1?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -1976,7 +1935,6 @@ for (let key in employees) {
 |4.	|The elements can be popped out of an array using the pop() function.| The keys or properties can be deleted by using the delete keyword.|
 |5.	|Iterating through an array is possible using For loop, For..in, For..of, and ForEach().| Iterating through an array of objects is possible using For..in, For..of, and ForEach().|
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-array-vs-object-w7wz7i?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -2254,7 +2212,6 @@ The main difference between `rest` and `spread` is that the rest operator puts t
 |You may or may not use the strict mode inside the function containing the spread operator. | You can not use the strict mode inside function containing the rest operator.|
 |It will overwrite the identical properties inside two objects and replace the former with the latter. | It simply collects all properties and wraps them inside a container.|
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-spread-vs-spread-qvxkkz?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -2283,7 +2240,6 @@ for (let i of list) {
 }
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-for-in-for-of-b0vn3v?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -2314,7 +2270,6 @@ console.log(a); // 20
 console.log(b); // 10
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-array-destructure-bg71je?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -2344,7 +2299,6 @@ console.log("j: " + j); // 4
 console.log("k: " + k); // 6
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/ecstatic-drake-iq971p?file=/src/index.js)**
 
 ## Q 7.10. When to use reduce(), map(), foreach() and filter() in JavaScript?
 
@@ -2418,7 +2372,6 @@ let sum = numbers.reduce(function (sum, number) {
 console.log(sum); // Output: 60
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-loop-m755cw?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -2474,7 +2427,6 @@ console.log(isValidJson("{}")); // true
 console.log(isValidJson("abc")); // false
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-validate-json-iwzom7?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -2521,7 +2473,6 @@ numbers.sort((a, b) => b - a);
 console.log(numbers); // [5, 4, 3, 2, 1]
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-sort-ykfhck?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -2562,7 +2513,6 @@ console.log(doubled) // [20, 40, 60]
 
 The main difference between `.forEach` and `.map()` is that `.map()` returns a new array. If you need the result, but do not wish to mutate the original array, `.map()` is the clear choice. If you simply need to iterate over an array, `forEach` is a fine choice.
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-foreach-vs-map-kxch52?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -2581,7 +2531,6 @@ console.log(numbers.unshift(40, 50)); // 5
 console.log(numbers); // [40, 50, 10, 20, 30]
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-unshift-khl0dq?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -2607,7 +2556,6 @@ console.log(sum(10, 20)); // 30
 console.log(sum(10, 20, 30)); // 60
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/es6-rest-parameters-w8zy28?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -2634,7 +2582,6 @@ display(10, 20, 30, 40, 50);
 SyntaxError: Rest element must be last element
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-rest-parameter-v8r5yt?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -2744,7 +2691,6 @@ console.log(res2); // null
 |replaceAll()	|Executes a search for all matches in a string, and replaces the matched substrings with a replacement substring.|
 |split()	    |Uses a regular expression or a fixed string to break a string into an array of substrings.|
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-regular-expression-fn79dp?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -2790,7 +2736,6 @@ let pattern = /Lorem/m;
 console.log(paragraph.match(pattern3)); // ["Lorem"]
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-modifier-sm7ul2)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -2857,7 +2802,6 @@ These are useful to define quantities
 "Hello".match(/A*/); // -> no match
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-regular-expression-patterns-b5ojtl?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -2885,7 +2829,6 @@ re1.exec("How are you?"); // null
 re2.exec("How are you?"); // ["you"]
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-regular-expression-m10bgo?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -2937,7 +2880,6 @@ validateEmail(email); // Valid
 validateEmail(email2); // Not Valid
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-regular-expression-rkxjb1?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -3029,7 +2971,6 @@ console.log(result); // 314
 
 *Note: Unlike regular functions, arrow functions do not have their own `this`. The value of `this` inside an arrow function remains the same throughout the lifecycle of the function and is always bound to the value of `this` in the closest non-arrow parent function.*
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/es6-arrow-function-yl7oqo?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -3183,7 +3124,6 @@ const concat = (separator) => {
 }
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-arrow-function-52ny7c?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -3270,7 +3210,6 @@ sayHello()();
 
 We are using double parentheses `()()` to invoke the returned function as well.
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-first-class-function-ckck8k?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -3325,7 +3264,6 @@ const sum = arrayOfNumbers.reduce((accumulator, currentValue) => {
 console.log("Sum: " + sum); // 60
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-higher-order-function-yhbo9v?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -3342,7 +3280,6 @@ const unaryFunction = (number) => number + 10;
 console.log(unaryFunction(10)); // 20
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-unary-function-j0h3gh?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -3374,7 +3311,6 @@ console.log(addCurry(20)(20)(20)); // 60
 
 *Note: Curried functions are great to improve code re-usability and functional composition.*
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-currying-function-3kq1db?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -3457,7 +3393,6 @@ console.log(sum(10)); // Calculating result: 20
 console.log(sum(10)); // Fetching from cache: 20
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-memoized-function-kykkp7?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -3485,7 +3420,6 @@ function sum() {
 sum(10, 20, 30); // returns 60
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-arguments-object-od6s7l?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -3505,7 +3439,6 @@ function fun2(arg1, arg2) {}
 console.log(fun2.length); // 2
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-function-length-7btkvr?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -3564,7 +3497,6 @@ sayEmployee1("Hi");    // Hi Sahima Mutti
 sayEmployee2("Hello"); // Hello Aarush Krishna 
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-call-apply-bind-xwenyv?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -3597,7 +3529,6 @@ let fullName = person.fullName.bind(member);
 console.log(fullName()); // Vasuda Sahota
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-bind-gdspfz?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -3645,7 +3576,6 @@ let add = (a, b) => a + b;
 add(10, 20); // 30
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-anonymous-function-vilo1d?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -3678,7 +3608,6 @@ var foo = function() {
 console.log(typeof foo);     // undefined
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-function-erlj09?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -3771,7 +3700,6 @@ console.log(employee.getName());
 
 Here `employee` is an object and `getName` is a method which is associated with `employee`.
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-function-vs-method-rw9dmj?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -3802,7 +3730,6 @@ let getName = person.getName.bind(member);
 console.log(getName()); // Alisha Chhabra
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-function-binding-od3zjg?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -3876,7 +3803,6 @@ gen.next().value; // 20
 gen.next().value; // 30
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-generate-function-si7ieh?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -3942,7 +3868,6 @@ asyncFunction();
 4. The return value of Generator is always {value: X, done: Boolean} where as for Async function it will always be a promise that will either resolve to the value X or throw an error.
 5. Async function can be decomposed into Generator and promise implementation which are good to know stuff.
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-generator-async-lhs021?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -3974,7 +3899,6 @@ let d4 = new Date(2022, 10, 30);
 console.log(d3 < d4); // true
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-date-comparison-lu76nj?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -4013,7 +3937,6 @@ closure();
 
 As per the above code, the inner `function displayName()` has access to the variables in the outer `function init()`.
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-closures-u4p0pq?file=/src/index.js)**
 
 **2. Dynamic Scope**:
 
@@ -4042,7 +3965,6 @@ fun2();
 10
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-dynamic-scope-fzbitn?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -4071,7 +3993,6 @@ The above example is a synchronous callback, as it is executed immediately.
 
 *Note: callbacks are often used to continue code execution after an asynchronous operation has completed — these are called asynchronous callbacks.*.
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-callback-lz1qhw?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -4230,7 +4151,6 @@ Some of the HTML event handlers are:
 </html>
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-click-event-rcvg65?file=/index.html)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -4266,7 +4186,6 @@ document.addEventListener(event, function, phase)
 </html>
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-addeventlistener-kxesqw?file=/index.html)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -4295,7 +4214,6 @@ Event Delegation is basically a pattern to handle events efficiently. Instead of
 </script>
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-event-delegation-7x5idt?file=/index.html)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -4338,7 +4256,6 @@ Event bubbling is a type of event propagation where the event first triggers on 
 </body>
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-event-bubbling-y1sjrk?file=/index.html)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -4373,7 +4290,6 @@ Event capturing is a type of event propagation where the event is first captured
 </script>
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-event-capturing-mz6d16?file=/index.html)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -4414,7 +4330,6 @@ It is commonly used for HTML document that uses `href="JavaScript:void(0);"` wit
 <a href="JavaScript:void(0);" onclick="alert('Prevent the page from refreshing!')">Click Me!</a>
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-void-onx4n5?file=/index.html)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -4564,7 +4479,6 @@ function myTimer() {
 </script>
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-setinterval-6tx5pq?file=/index.html)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -4601,7 +4515,6 @@ Hello World!
 Stop
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-cleartimeout-w6ve8y?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -4638,7 +4551,6 @@ Hello World!
 Stop
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-clearinterval-brugdh?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -4841,7 +4753,6 @@ console.log(country); // India
 console.log(job); // Developer
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-object-destructuring-xg7q51?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -4935,7 +4846,6 @@ Peter
 John
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-object-clone-hj5uhr?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -5008,7 +4918,6 @@ let collatorEsCaseFirts = new Intl.Collator("es", { caseFirst: "upper" }).compar
 console.log(["a", "A", "z", "ñ", "b"].sort(collatorEsCaseFirts)); // ["A", "a", "b", "ñ", "z"]
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-intl-collator-jusk3c?file=/src/index.js)**
 
 **2. DateTimeFormat:**
 
@@ -5027,7 +4936,6 @@ console.log(nowEnUs.format(now)); // 5/17/2022
 console.log(noeEs.format(now)); // 17/5/2022 
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-intl-datetimeformat-mnvt4u?file=/src/index.js)**
 
 **3. ListFormat:**
 
@@ -5055,7 +4963,6 @@ console.log(lfEs.format(['Hannibal smith', 'Murdock' , 'Faceman', 'B.A." Baracus
 // Hannibal smith, Murdock, Faceman o B.A." Baracus
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-intl-listformat-4dq79u?file=/src/index.js)**
 
 **4. NumberFormat:**
 
@@ -5073,7 +4980,6 @@ console.log(nfEs.format(myNumber)); //1.000.000,999
 console.log(nfEn.format(myNumber)); // 1,000,000.999
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-intl-numberformat-whhvc9?file=/src/index.js)**
 
 **5. RelativeTimeFormat:**
 
@@ -5098,7 +5004,6 @@ console.log(rtfEs.format(-1, 'day')); // ayer
 console.log(rtfEs.format(-5, 'month')); // Hace 5 meses
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-intl-relativetimeformat-cxwko6?file=/src/index.js)**
 
 **6. Locale:**
 
@@ -5127,7 +5032,6 @@ let dtfMyNewLocale2 = new Intl.DateTimeFormat(newLocale2);
 console.log(dtfMyNewLocale2.format(now2)); // 5/17/2022 
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-intl-locale-dgel2y?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -5301,7 +5205,6 @@ const aditya = { ...human, name: "Aditya" }; // {race: "human", name: "Aditya"}
 const alienAditya = { ...aditya, race: "alien" }; // {race: "alien", name: "Aditya"}
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-immutable-object-jty055?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -5338,7 +5241,6 @@ let emp2 = new Employee("Dinesh Gupta", "Company 2", 2000);
 
 Here, each instance variable `emp1`, `emp2` has own copy of `formatSalary` method. However the `formatSalary2` will only be added once to an object `Employee.prototype`.
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-class-object-96mc2r?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -5409,7 +5311,6 @@ myMap.get(function () {}); // undefined, because keyFunc !== function () {}
 * We can put any type of data as a `Map` key, whereas objects can only have a number, string, or symbol as a key.
 * A `Map` inherits from `Map.prototype`. This offers all sorts of utility functions and properties which makes working with `Map` objects a lot easier.
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-object-vs-map-iodiyv?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -5466,7 +5367,6 @@ console.log(newObj); // { a: 10, b: { c: 20 } }
   <img src="assets/deepcopy.png" alt="Shallow Copy and Deep Copy" />
 </p>
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-shallow-vs-deep-copy-ik5b7h?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -5571,7 +5471,6 @@ const obj = { key: undefined };
 console.log(obj.hasOwnProperty("key")); // true
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-in-operator-3fxd3h?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -5681,7 +5580,6 @@ There are many real-world applications for Proxies
 * Revocable references
 * Implementing the DOM in javascript
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-in-operator-3fxd3h?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -5707,7 +5605,6 @@ let index = Reflect.apply(RegExp.prototype.exec, /o/, ["Hello"]).index;
 console.log(index); // 4
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-reflection-nwgjhg?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -5731,7 +5628,6 @@ today = mm + '/' + dd + '/' + yyyy;
 document.write(today);
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-date-nzwk0c?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -5784,7 +5680,6 @@ console.log(Object.isExtensible(person)); // false
 
 *Note: By default, all the objects are extendable. i.e, The new properties can added or modified.*
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-isextensible-xz0ygi?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -5807,7 +5702,6 @@ JSON.stringify(obj1) === JSON.stringify(obj2); // true
 _.isEqual(obj1, obj2); // true
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-object-comparison-w3o578?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -6131,7 +6025,6 @@ Windows
 VM87:8 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-os-details-lzppo0?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -6177,7 +6070,6 @@ function redirect() {
 }
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-page-redirect-xc7221?file=/index.html)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -6207,7 +6099,6 @@ The `window.location` object can be used to get the current page address (URL) a
 console.log('location.href', window.location.href); // Returns full URL
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-page-redirect-xc7221?file=/index.html)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -6272,7 +6163,6 @@ for (const entry of urlParams.entries()) {
 ["page", "20"]
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-urlsearchparams-7mb02x?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -6447,7 +6337,6 @@ document.addEventListener("load", function(e) {
 |pixelDepth	  |Returns the color resolution (in bits per pixel) of the screen|
 |width	      |Returns the total width of the screen|
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-screen-object-bxcuo9?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -6702,7 +6591,6 @@ function removeElement(elementId) {
 }
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-html-element-iyq2ck?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -6787,7 +6675,6 @@ if (agt.indexOf("chrome") > -1) {
 alert("You are using: " + browser + " \n\nNavigator: " + agt);
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-detect-browser-type-7xufzy?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -6846,7 +6733,6 @@ console.log("Can a User code?: " + ChildUser.CanCode);
 console.log("Can a User cook?: " + ChildUser.CanCook());
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-prototypal-inheritance-qxp33h?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -6882,7 +6768,6 @@ employee
 Employee.prototype === employee._proto_ // false
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-proto-sqkxeb?file=/src/index.js)**
 
 **2. Prototype**: 
 
@@ -6915,7 +6800,6 @@ Employee.prototype.getName = function () {
 console.log(employee.getName());
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-prototype-wvh93l?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -6996,7 +6880,6 @@ let Triangle = class TriangleClass {
 console.log(Triangle.name); // TriangleClass
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-class-expression-nqbyr2?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -7035,7 +6918,6 @@ console.log(myClass.publicMethod()); // I am private!
 console.log(MyClass.staticProperty); // I am static! 
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-variable-scope-rgjsm4?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -7081,7 +6963,6 @@ console.log(circle.area()); // 78.53981633974483
 console.log(circle.circumference()); // 31.41592653589793
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-prototypical-inheritance-iyxh6u?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -7106,7 +6987,6 @@ admin.name = "Disha Choudhry"; // Here, "name" is a property set on "admin" but 
 admin.printInfo(); // My name is Disha Choudhry
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-object-create-skyznx?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -7151,7 +7031,6 @@ console.log(employee instanceof Person); // true
 console.log(employee instanceof Employee); // true
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-prototypal-inheritance-djtiuh?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -7182,7 +7061,6 @@ person.hasOwnProperty("getFullName"); // false
 person.getFullName(); // Vanya Dayal
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-prototype-chaining-9fvow6?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -7340,7 +7218,6 @@ catch(err) {
 ReferenceError: greeting is not defined
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-error-object-uscjst?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -7446,7 +7323,6 @@ function errorHandling() {
 errorHandling(); // Error: is not a number.
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-error-handling-6uz740?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -7517,7 +7393,6 @@ In the above handlers, the result is passed to the chain of .then() handlers wit
 * After that `.then()` handler is called by logging the result(10) and then return a promise with the value of `result + 20`.
 * After that the value passed to the next `.then()` handler by logging the result(20) and return a promise with `result + 30`.
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-promise-chain-qjg2u3?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -7549,7 +7424,6 @@ Promise.all([promise1, promise2])
 
 *Note: Remember that the order of the promises (output the result) is maintained as per input order*.
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-promise-all-5ieqjp?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -7575,7 +7449,6 @@ Promise.race([promise1, promise2]).then(function (value) {
 });
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-promise-race-7k6zh0?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -7626,7 +7499,6 @@ async function fetchMethod() {
 fetchMethod();
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-async-await-4jj835?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -7654,7 +7526,6 @@ xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 xhr.send();
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-xmlhttprequest-ped1vv?file=/src/index.js)**
 
 **2. Fetch():**  
 
@@ -7675,7 +7546,6 @@ fetch("https://jsonplaceholder.typicode.com/todos/1")
   });
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-fetch-8xb8e9?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -7700,7 +7570,6 @@ fetch("https://api.github.com/users/learning-zone")
   });
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-fetch-v6gpnk?file=/src/index.js)**
 
 **Headers Object**  
 
@@ -7728,7 +7597,6 @@ fetch("https://api.github.com/users/learning-zone", initObject)
   });
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-headers-object-6xe335?file=/src/index.js)**
 
 **Request Object**  
 
@@ -7762,7 +7630,6 @@ fetch(userRequest)
   });
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-request-object-ro4xt9?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -7871,7 +7738,6 @@ Basically, Ajax uses browser\'s built-in `XMLHttpRequest()` object to send and r
     })();
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-ajax-ntgmov?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -7997,7 +7863,6 @@ console.log(map.size); // 2
 console.log(map); // {'a' => 50, 3 => 30}
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-map-p4wm4c?file=/src/index.js)**
 
 **WeakMap:**
 
@@ -8017,7 +7882,6 @@ map.set(window.obj, 20); // WeakMap {Obj => 20}
 console.log(map);
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-weakmap-7e1sez?file=/src/index.js)**
 
 **Difference between Map and WeakMap:**  
 
@@ -8029,7 +7893,6 @@ console.log(map);
 
 The latest Chrome, Firefox, Edge and Safari support Map and WeakMap on desktop. It\'s supported only in IE11 but not IE10 and below. On mobile, newer browsers also have support, but IE Mobile doesn\'t.
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-request-object-ro4xt9?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -8070,7 +7933,6 @@ console.log(set.size); // 5
 set.clear(); // Set Cleared
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-set-0imn2s?file=/src/index.js)**
 
 **WeakSet:**
 
@@ -8100,7 +7962,6 @@ weakSet.delete(obj1); // obj1 deleted from the set
 weakSet.add(2); // ERROR, no primitive value
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-weakset-i1dxbx?file=/src/index.js)**
 
 |Set	                          |WeakSet                        |
 |-------------------------------|-------------------------------|
@@ -8137,7 +7998,6 @@ console.log(weakSetObject.has(firstObject)); // true
 weakSetObject.delete(secondObject);
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-weakset-39nhvv?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -8202,7 +8062,6 @@ console.log(number.next()); // {value: 20, done: false}
 console.log(number.next()); // {value: 30, done: false}
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-iterator-sh0tvo?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -8313,7 +8172,6 @@ console.log(myModule._privateProperty); // is undefined protected by the module 
 myModule._privateMethod(); // TypeError: protected by the module closure
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-iterator-sh0tvo?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -8446,7 +8304,6 @@ obj2.display();
 console.log(obj2 === obj1); // true
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/js-singleton-pattern-3cvgkr?file=/src/index.js)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
