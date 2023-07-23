@@ -155,7 +155,6 @@ app.listen(3000, function () {
 node app.js
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/hello-world-in-nodejs-ue3cs3)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
@@ -2055,7 +2054,6 @@ app.get("/", (req, res) => {
 app.listen(3000);
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/next-function-nq042s)**
 
 *Note: The `next()` function is not a part of the Node.js or Express API, but is the third argument that is passed to the middleware function. The `next()` function could be named anything, but by convention it is always named “next”. To avoid confusion, always use this convention.*
 
@@ -4393,7 +4391,6 @@ if (response.error) {
 }
 ```
 
-**&#9885; [Try this example on CodeSandbox](https://codesandbox.io/s/schema-validation-using-joi-s2nhzs)**
 
 <div align="right">
     <b><a href="#table-of-contents">↥ back to top</a></b>
