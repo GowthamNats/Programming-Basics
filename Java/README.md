@@ -73,7 +73,7 @@
 **Nashorn** is a JavaScript engine developed in Java by Oracle. Designed to provide the ability to embed JavaScript code in Java applications. Compared to Rhino , which is supported by the Mozilla Foundation, Nashorn provides 2 to 10 times better performance, as it compiles code and transfers bytecode to the Java virtual machine directly in memory. Nashorn can compile JavaScript code and generate Java classes that are loaded with a special loader. It is also possible to call Java code directly from JavaScript.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is jjs?
@@ -81,7 +81,7 @@
 `jjs` - This is a command line utility that allows you to execute JavaScript programs directly in the console.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. In Java, How many ways you can take input from the console?
@@ -159,7 +159,7 @@ public class Sample {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is the purpose of using javap?
@@ -192,7 +192,7 @@ class Simple {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. Explain the expression `System.out::println`?
@@ -200,7 +200,7 @@ class Simple {
 The specified expression illustrates passing a reference to a static method of a `println()`class `System.out`.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. Tell us about parallel processing in Java 8?
@@ -241,7 +241,7 @@ collection.parallelStream ()
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 2. JAVA ARCHITECTURE
@@ -255,7 +255,7 @@ Java Virtual Machine (JVM) is a specification that provides runtime environment 
 The JVM is not platform independent. Java Virtual Machine (JVM) provides the environment to execute the java file(. Class file). So at the end it's depends on kernel and kernel is differ from OS (Operating System) to OS. The JVM is used to both translate the bytecode into the machine language for a particular computer and actually execute the corresponding machine-language instructions as well.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is JIT compiler in Java?
@@ -265,7 +265,7 @@ The Just-In-Time (JIT) compiler is a component of the runtime environment that i
 Java programs consists of classes, which contain platform-neutral bytecodes that can be interpreted by a JVM on many different computer architectures. At run time, the JVM loads the class files, determines the semantics of each individual bytecode, and performs the appropriate computation. The additional processor and memory usage during interpretation means that a Java application performs more slowly than a native application. The JIT compiler helps improve the performance of Java programs by compiling bytecodes into native machine code at run time. The JIT compiler is enabled by default. When a method has been compiled, the JVM calls the compiled code of that method directly instead of interpreting it.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is Classloader in Java?
@@ -287,7 +287,7 @@ It loads classes from the JDK extensions directly usually `JAVA_HOME/lib/ext` di
 It loads application specific classes from the CLASSPATH environment variable. It can be set while invoking program using -cp or classpath command line options.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. Java Compiler is stored in JDK, JRE or JVM?
@@ -309,7 +309,7 @@ Java Runtime Environment provides a platform to execute java programs. JRE consi
 </p>
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is difference between Heap and Stack Memory in java?
@@ -341,7 +341,7 @@ As soon as method ends, the block becomes unused and become available for next m
 |Allocation/Deallocation| This Memory is automatically allocated and deallocated when a method is called and returned respectively|Heap space is allocated when new objects are created and deallocated by Gargabe Collector when they are no longer referenced |
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. How many types of memory areas are allocated by JVM?
@@ -368,7 +368,7 @@ JVM is a program which takes Java bytecode and converts the byte code (line by l
 **6. Native Method Stack**: It contains all the native methods used in the application.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 3. JAVA DATA TYPES
@@ -413,7 +413,7 @@ class UnboxingExample {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is the difference between transient and volatile variable in Java?
@@ -456,7 +456,7 @@ public class MyRunnable implements Runnable {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are assertions in Java?
@@ -491,7 +491,7 @@ public class Example {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is the final variable, final class, and final blank variable?
@@ -596,7 +596,7 @@ class ABC extends XYZ {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is a compile time constant in Java?
@@ -617,7 +617,7 @@ private final int x = 10;
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are the different access specifiers available in java?
@@ -653,7 +653,7 @@ private final int x = 10;
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 4. JAVA METHODS
@@ -683,7 +683,7 @@ class ACMEBicycle implements Bicycle {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is a native method?
@@ -732,7 +732,7 @@ Output
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are the restrictions that are applied to the Java static methods?
@@ -783,7 +783,7 @@ overridden method is static
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is a lambda?
@@ -871,7 +871,7 @@ public  static  void main ( String [] args) {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What variables do lambda expressions have access to?
@@ -885,7 +885,7 @@ Access to external scope variables from a lambda expression is very similar to a
 The default methods of the implemented functional interface are not allowed to be accessed inside the lambda expression.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is a method reference?
@@ -908,7 +908,7 @@ public  static  void main ( String [] args) {
 Method references are potentially more efficient than using lambda expressions. In addition, they provide the compiler with better information about the type, and if you can choose between using a reference to an existing method and using a lambda expression, you should always use a method reference.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What types of method references do you know?
@@ -918,7 +918,7 @@ Method references are potentially more efficient than using lambda expressions. 
 * to the constructor.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 5. JAVA FUNCTIONAL PROGRAMMING
@@ -976,7 +976,7 @@ class HybridCar extends Car {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. Distinguish between static loading and dynamic class loading?
@@ -1012,7 +1012,7 @@ Class.forName (String className);
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is the purpose of the Runtime class and System class?
@@ -1054,7 +1054,7 @@ public class RuntimeTest
 The purpose of the System class is to provide access to system resources. It contains accessibility to standard input, standart output, error output streams, current time in millis, terminating the application, etc.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are the ways to instantiate the Class class?
@@ -1086,7 +1086,7 @@ MyObject object = (MyObject) inStream.readObject();
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is immutable object?
@@ -1119,7 +1119,7 @@ public class DateContainer {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. How can we create an immutable class in Java?
@@ -1153,7 +1153,7 @@ public final class Employee {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. How bootstrap class loader works in java?
@@ -1190,7 +1190,7 @@ public class ClassLoaderTest {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. How can we create a object of a class without using new operator?
@@ -1313,7 +1313,7 @@ public class MainClass {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are methods of Object Class?
@@ -1336,7 +1336,7 @@ The Object class is the parent class of all the classes in java by default.
 </tbody></table>
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is Optional
@@ -1353,7 +1353,7 @@ optional.orElse( " ops ... " ); // "hello"
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 8. JAVA CONSTRUCTORS
@@ -1419,7 +1419,7 @@ public class Car {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. How can constructor chaining be done using this keyword?
@@ -1526,7 +1526,7 @@ Calling parameterized constructor of derived
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is a private constructor?
@@ -1587,7 +1587,7 @@ class Visitor{
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 9. JAVA ARRAY
@@ -1645,7 +1645,7 @@ class Visitor{
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 10. JAVA STRINGS
@@ -1675,7 +1675,7 @@ System.out.println(c == d);  // false
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is difference between String, StringBuffer and StringBuilder?
@@ -1719,7 +1719,7 @@ public class BuilderTest {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. Why string is immutable in java?
@@ -1729,7 +1729,7 @@ The string is Immutable in Java because String objects are cached in String pool
 Since string is immutable it can safely share between many threads and avoid any synchronization issues in java.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is Java String Pool?
@@ -1756,7 +1756,7 @@ public class StringPool {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is difference between String, StringBuilder and StringBuffer?
@@ -1816,7 +1816,7 @@ StringBuffer: World
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is StringJoiner?
@@ -1832,7 +1832,7 @@ System.out.println(joiner); // prefix-Hello.the.brave.world-suffix
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 11. JAVA REFLECTION
@@ -1934,7 +1934,7 @@ Test
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 12. JAVA STREAMS
@@ -1963,7 +1963,7 @@ In addition to the universal object, there are special types of streams to work 
 * support additional end operations `sum()`, `average()`, `mapToObj()`.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are the ways to create a stream?
@@ -2017,7 +2017,7 @@ Stream < String > fromGenerate =  Stream.generate(() ->  " 0 " );
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is the difference between `Collection` and `Stream`?
@@ -2025,7 +2025,7 @@ Stream < String > fromGenerate =  Stream.generate(() ->  " 0 " );
 Collections allow you to work with elements separately, while streams do not allow this, but instead provides the ability to perform functions on data as one.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is the method `collect()`for streams for?
@@ -2061,7 +2061,7 @@ Collector < String , a List < String > , a List < String > > toList =  Collector
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. Why do streams use `forEach()`and `forEachOrdered()` methods?
@@ -2070,7 +2070,7 @@ Collector < String , a List < String > , a List < String > > toList =  Collector
 * `forEachOrdered()` applies a function to each stream object while maintaining the order of the elements.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are `map()`, `mapToInt()`, `mapToDouble()` and `mapToLong()` methods in Stream?
@@ -2086,7 +2086,7 @@ Stream
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is the purpose of `filter()` method in streams?
@@ -2094,7 +2094,7 @@ Stream
 The method `filter()` is an intermediate operation receiving a predicate that filters all elements, returning only those that match the condition.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is the use of `limit()` method in streams?
@@ -2102,7 +2102,7 @@ The method `filter()` is an intermediate operation receiving a predicate that fi
 The method `limit()`is an intermediate operation, which allows you to limit the selection to a certain number of first elements.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is the use of `sorted()` method in streams?
@@ -2112,7 +2112,7 @@ The method `sorted()`is an intermediate operation, which allows you to sort the 
 The order of the elements in the original collection remains untouched - `sorted()`it just creates its sorted representation.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What streamers designed methods `flatMap()`, `flatMapToInt()`, `flatMapToDouble()`, `flatMapToLong()`?
@@ -2129,7 +2129,7 @@ Stream
 `flatMapToInt()`, `flatMapToDouble()`, `flatMapToLong()`- are analogues `flatMap()`, returns the corresponding numerical stream.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are the final methods of working with streams you know?
@@ -2151,7 +2151,7 @@ Stream
 * `average()` returns the arithmetic mean of all numbers.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What intermediate methods of working with streams do you know?
@@ -2169,7 +2169,7 @@ Stream
 For numerical streams, an additional method is available `mapToObj()`that converts the numerical stream back to the object stream.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 #### Q. Explain Difference between Collection API and Stream API?
@@ -2177,7 +2177,7 @@ For numerical streams, an additional method is available `mapToObj()`that conver
 *ToDo*
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 13. JAVA REGULAR EXPRESSIONS
@@ -2215,7 +2215,7 @@ public class Index {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 14. JAVA FILE HANDLING
@@ -2325,7 +2325,7 @@ This is an example of writing data to a file
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. How to set the Permissions to a file in Java?
@@ -2381,7 +2381,7 @@ public class FilePermissions {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. Give the hierarchy of InputStream and OutputStream classes?
@@ -2468,7 +2468,7 @@ public class CopyFile {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. How serialization works in java?
@@ -2560,7 +2560,7 @@ public class SerialExample {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 15. JAVA EXCEPTIONS
@@ -2584,7 +2584,7 @@ The classes which inherit **RuntimeException** are known as unchecked exceptions
 Error is irrecoverable e.g. OutOfMemoryError, VirtualMachineError, AssertionError etc.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. Explain hierarchy of Java Exception classes?
@@ -2651,7 +2651,7 @@ public class CustomExceptionExample {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is difference between Error and Exception?
@@ -2667,7 +2667,7 @@ public class CustomExceptionExample {
 |Example	               |OutOfMemory, StackOverFlow.|Checked Exceptions: NoSuchMethod, ClassNotFound.Unchecked Exceptions: NullPointer, IndexOutOfBounds.|
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. Explain about Exception Propagation?
@@ -2707,7 +2707,7 @@ class TestExceptionPropagation {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are different scenarios causing "Exception in thread main"?
@@ -2723,7 +2723,7 @@ Some of the common main thread exception are as  follows:
 * **Exception in thread "main" java.lang.ArithmeticException**: Whenever any exception is thrown from main method, it prints the exception is console. The first part explains that exception is thrown from main method, second part prints the exception class name and then after a colon, it prints the exception message.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are the differences between throw and throws?
@@ -2791,7 +2791,7 @@ You shouldn\'t divide number by zero
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. While overriding a method can you throw another exception or broader exception?
@@ -2824,7 +2824,7 @@ class B extends A {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is checked, unchecked exception and errors?
@@ -2918,7 +2918,7 @@ Java Result: 1
 Example: **OutOfMemoryError, VirtualMachineError, AssertionError** etc.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is difference between ClassNotFoundException and NoClassDefFoundError?
@@ -2930,7 +2930,7 @@ Example: **OutOfMemoryError, VirtualMachineError, AssertionError** etc.
 `NoClassDefFoundError` is an error that occurs when a particular class is present at compile time, but was missing at run time.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 16. JAVA INHERITANCE
@@ -3002,7 +3002,7 @@ class Engine {
 *Note: "final" keyword is used in Composition to make sure child variable is initialized.*
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. The difference between Inheritance and Composition?
@@ -3041,7 +3041,7 @@ class Apple {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. Can you declare the main method as final?
@@ -3073,7 +3073,7 @@ Cannot override the final method from Test.
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is covariant return type?
@@ -3113,7 +3113,7 @@ Subclass
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. Can you explain Liskov Substitution principle?
@@ -3243,7 +3243,7 @@ Now, in `ClientTestProgram` , instead of creating list of type `MediaPlayer`, we
 that satisefies *Liskov's substitution principle*.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 17. JAVA METHOD OVERRIDING
@@ -3334,7 +3334,7 @@ Overriding Method
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What do you mean Run time Polymorphism?
@@ -3401,7 +3401,7 @@ Overriding Method
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is runtime polymorphism in java?
@@ -3451,7 +3451,7 @@ Bank Rate of Interest: 0.0
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 19. JAVA ABSTRACTION
@@ -3473,7 +3473,7 @@ Abstract class and interface both are used to achieve abstraction where we can d
 |A Java abstract class can have class members like private, protected, etc.|Members of a Java interface are public by default.|
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are Wrapper classes?
@@ -3528,7 +3528,7 @@ Output
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is the difference between abstraction and encapsulation?
@@ -3554,7 +3554,7 @@ Abstraction is about hiding unwanted details while giving out most essential det
 </tbody></table>
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 20. JAVA INTERFACES
@@ -3588,7 +3588,7 @@ public interface Test {
 * An interface provide a way for the client to interact with the object. If variables were not public, the clients would not have access to them. that is why variable are **public**
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. When can an object reference be cast to a Java interface reference?
@@ -3617,7 +3617,7 @@ public class TestInterface implements MyInterface {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. How can you avoid serialization in child class if the base class is implementing the Serializable interface?
@@ -3701,7 +3701,7 @@ java.io.NotSerializableException: This class cannot be Serialized
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is the difference between Serializable and Externalizable interface?
@@ -3715,7 +3715,7 @@ java.io.NotSerializableException: This class cannot be Serialized
 |Default serialization does not call any class constructor.|A public no-arg constructor is required while using Externalizable interface. |
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. How to create marker interface?
@@ -3754,7 +3754,7 @@ class Main {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. Can you declare an interface method static?
@@ -3762,7 +3762,7 @@ class Main {
 Java 8 interface changes include static methods and default methods in interfaces. Prior to Java 8, we could have only method declarations in the interfaces. But from Java 8, we can have default methods and static methods in the interfaces.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is a Functional Interface?
@@ -3774,7 +3774,7 @@ To accurately determine the interface as functional, an annotation has been adde
 An interface can include as many `default` methods as you like while remaining functional, because `default` methods are not abstract.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are `default` interface methods?
@@ -3799,7 +3799,7 @@ interface  Example {
 * One of the main reasons for introducing default methods is the ability of collections in Java 8 to use lambda expressions.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. How to call `default` interface method in a class that implements this interface?
@@ -3821,7 +3821,7 @@ class  License  implements  Paper {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is `static` interface method?
@@ -3833,7 +3833,7 @@ Static interface methods are similar to default methods, except that there is no
 * Static methods in the interface are used to provide helper methods, for example, checking for null, sorting collections, etc.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. How to call `static` interface method?
@@ -3855,7 +3855,7 @@ class  License {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are the functional interfaces `Function<T,R>`, `DoubleFunction<R>`, `IntFunction<R>` and `LongFunction<R>`?
@@ -3875,7 +3875,7 @@ backToString.apply("123");     // "123"
 * `LongFunction<R>`- a function that receives input `Long`and returns an instance of the class at the output `R`.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are the functional interfaces `UnaryOperator<T>`, `DoubleUnaryOperator`, `IntUnaryOperator`and `LongUnaryOperator`?
@@ -3892,7 +3892,7 @@ System.out.println(operator.apply ( 5 )); // 25
 * `LongUnaryOperator`- unary operator receiving input `Long`.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are the functional interfaces `BinaryOperator<T>`, `DoubleBinaryOperator`, `IntBinaryOperator`and `LongBinaryOperator`?
@@ -3909,7 +3909,7 @@ System.out.println(operator.apply ( 1 , 2 )); // 3
 * `LongBinaryOperator`- binary operator receiving input Long.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are the functional interfaces `Predicate<T>`, `DoublePredicate`, `IntPredicateand` `LongPredicate`?
@@ -3929,7 +3929,7 @@ predicate.negate().test("foo"); // false
 * `LongPredicate`- predicate receiving input `Long`.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are the functional interfaces `Consumer<T>`, `DoubleConsumer`, `IntConsumer`and `LongConsumer`?
@@ -3946,7 +3946,7 @@ hello.accept( " world " );
 * `LongConsumer`- the consumer receiving the input `Long`.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are the functional interfaces `Supplier<T>`, `BooleanSupplier`, `DoubleSupplier`, `IntSupplier`and `LongSupplier`?
@@ -3963,7 +3963,7 @@ now.get();
 * `LongSupplier`- the supplier is returning `Long`.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 #### Q. What is Spliterator in Java SE 8?
@@ -3973,7 +3973,7 @@ now.get();
 *ToDo*
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 21. JAVA ENCAPSULATION
@@ -4014,7 +4014,7 @@ public class MainClass {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 22. JAVA GENERICS
@@ -4077,7 +4077,7 @@ Generic Class Example !
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## # 23. MISCELLANEOUS
@@ -4113,7 +4113,7 @@ class ExternalProcessExample {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is the static import?
@@ -4136,7 +4136,7 @@ class StaticImportExample {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is the difference between factory and abstract factory pattern?
@@ -4169,7 +4169,7 @@ Abstract Factory patterns work around a super-factory which creates other factor
 In Abstract Factory pattern an interface is responsible for creating a factory of related objects without explicitly specifying their classes. Each generated factory can give the objects as per the Factory pattern.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are the methods used to implement for key Object in HashMap?
@@ -4183,7 +4183,7 @@ Class inherits methods from the following classes in terms of HashMap
 * java.util.Map
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is a Memory Leak?
@@ -4231,7 +4231,7 @@ Exception in thread "main" java.lang.OutOfMemoryError: Java heap space exceed
 * Calling `String.intern()` on Long String
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. The difference between Serial and Parallel Garbage Collector?
@@ -4247,7 +4247,7 @@ Turn on the `-XX:+UseSerialGC` JVM argument to use the serial garbage collector.
 Parallel garbage collector is also called as throughput collector. It is the default garbage collector of the JVM. Unlike serial garbage collector, this uses multiple threads for garbage collection. Similar to serial garbage collector this also freezes all the application threads while performing garbage collection.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is difference between WeakReference and SoftReference in Java?
@@ -4317,7 +4317,7 @@ public class Example {
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. How Garbage collector algorithm works?
@@ -4327,7 +4327,7 @@ Garbage collection works on **Mark** and **Sweep** algorithm. In Mark phase it d
 There are methods like `System.gc()` and `Runtime.gc()` which is used to send request of Garbage collection to JVM but it\'s not guaranteed that garbage collection will happen. If there is no memory space for creating a new object in Heap Java Virtual Machine throws `OutOfMemoryError` or `java.lang.OutOfMemoryError` heap space
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. Java Program to Implement Singly Linked List?
@@ -4414,7 +4414,7 @@ Nodes of singly linked list:
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What do we mean by weak reference?
@@ -4461,7 +4461,7 @@ Weak Reference Example!
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What are the different types of JDBC Driver?
@@ -4475,7 +4475,7 @@ There are 4 types of JDBC drivers:
 1. **Thin driver**: The thin driver converts JDBC calls directly into the vendor-specific database protocol. That is why it is known as thin driver. It is fully written in Java language.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What additional methods for working with associative arrays (maps) appeared in Java 8?
@@ -4523,7 +4523,7 @@ map.merge("a", "z", (value, newValue) -> value.concat(newValue)); //["a","Aaz"]
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is LocalDateTime?
@@ -4531,7 +4531,7 @@ map.merge("a", "z", (value, newValue) -> value.concat(newValue)); //["a","Aaz"]
 `LocalDateTime`combines together `LocaleDate`and `LocalTime`contains the date and time in the calendar system ISO-8601 without reference to the time zone. Time is stored accurate to the nanosecond. It contains many convenient methods such as plusMinutes, plusHours, isAfter, toSecondOfDay, etc.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is ZonedDateTime?
@@ -4539,7 +4539,7 @@ map.merge("a", "z", (value, newValue) -> value.concat(newValue)); //["a","Aaz"]
 `java.time.ZonedDateTime`- an analogue `java.util.Calendar`, a class with the most complete amount of information about the temporary context in the calendar system ISO-8601. It includes a time zone, therefore, this class carries out all operations with time shifts taking into account it.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. How to determine repeatable annotation?
@@ -4558,7 +4558,7 @@ To define a repeatable annotation, you must create a container annotation for th
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What class appeared in Java 8 for encoding / decoding data?
@@ -4571,7 +4571,7 @@ Base64 contains 6 basic methods:
 `getMimeEncoder() / getMimeDecoder()`- returns a MIME encoder / decoder conforming to RFC 2045 .
 
 <div align="right">
-  <b><a href="##table-of-contents">↥ back to top</a></b>
+  <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. How to create a Base64 encoder and decoder?
@@ -4584,7 +4584,7 @@ new  String ( Base64.getDecoder().decode ( " aW5wdXQ == " ), " utf-8 " ); // inp
 ```
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. Give me an example of design pattern which is based upon open closed principle?
@@ -4664,7 +4664,7 @@ public class Main {
 By using the Strategy Pattern, we can add new payment methods (new strategies) in the future by creating new implementations of the `PaymentStrategy` interface without modifying the existing `PaymentProcessor` or client code. This makes the design open for extension but closed for modification, adhering to the Open/Closed Principle.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. How do you test static method?
@@ -4721,7 +4721,7 @@ public class MyUtilityTest {
 Please note that using specialized frameworks like PowerMock or Mockito with static method mocking should be used judiciously and only in situations where other alternatives, such as refactoring or encapsulation, are not feasible. It's generally a good practice to design classes with testability in mind, favoring instance methods over static methods whenever possible, as it makes testing easier and promotes a more flexible design.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. How to do you test a method for an exception using JUnit?
@@ -4782,7 +4782,7 @@ In the second test method `testDivideValid`, we test the `divide` method for a v
 Remember that it's essential to handle exceptions correctly in your production code, and the tests for exception scenarios should be accompanied by tests for valid scenarios to ensure the method behaves as expected in both cases.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. Which unit testing libraries you have used for testing Java programs?
@@ -4808,7 +4808,7 @@ In Java development, there are several popular unit testing libraries that devel
 These are just a few examples of the many unit testing libraries available for Java. Each library has its strengths and use cases, and the choice of library often depends on the specific testing needs and preferences of the development team. Many projects use a combination of JUnit or TestNG for test execution and Mockito or other mocking libraries for isolating dependencies and writing robust test cases.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
 
 ## Q. What is the difference between @Before and @BeforeClass annotation?
@@ -4890,5 +4890,5 @@ public class MyTest {
 In summary, `@Before` is used for per-test setup operations, while `@BeforeClass` is used for one-time setup operations for the entire test class. Understanding the difference between these annotations helps ensure that test cases have the appropriate setup and execute in an isolated and reliable manner.
 
 <div align="right">
-    <b><a href="##table-of-contents">↥ back to top</a></b>
+    <b><a href="#java-basics">↥ back to top</a></b>
 </div>
