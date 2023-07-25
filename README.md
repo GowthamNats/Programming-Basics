@@ -7,9 +7,8 @@
 Please read the [contribution guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) or [creating a list guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) if you want to contribute.
 
 ### Table of Contents
-...
-
 - [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
+  - ...
 ## Programming Languages/Frameworks/Platforms
 
 ### Android
