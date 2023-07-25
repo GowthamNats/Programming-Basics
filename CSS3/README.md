@@ -5,7 +5,7 @@
 * [CSS Coding Practice](css-practice.md)
 * [CSS Multiple Choice Questions](css-multiple-choice-questions.md)
 * [CSS3 Properties](css3-properties.md)
-* [SCSS Basics](https://github.com/learning-zone/scss-basics)
+* [SCSS Interview Questions](scss-questions.md)
 
 <br/>
 
