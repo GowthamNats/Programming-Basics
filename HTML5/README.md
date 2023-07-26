@@ -1,5 +1,5 @@
 
-# HTML Basics
+# HTML5 Basics
 
 ## Table of Contents
 
