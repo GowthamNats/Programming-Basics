@@ -6,80 +6,439 @@
 
 Please read the [contribution guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) or [creating a list guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) if you want to contribute.
 
-### Table of Contents
-- [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
-  - [Android](#android)
-  - [AngularJS](#angularjs)
-  - [Angular](#angular)
-  - [BackboneJS](#backbonejs)
-  - [C++](#c)
-  - [C](#c-1)
-  - [C♯](#c-2)
-  - [.NET](#net)
-  - [Clojure](#clojure)
-  - [CSS](#css)
-  - [Cucumber](#cucumber)
-  - [Django](#django)
-  - [Docker](#docker)
-  - [Elastic](#elastic)
-  - [EmberJS](#emberjs)
-  - [Erlang](#erlang)
-  - [Golang](#golang)
-  - [GraphQl](#graphql)
-  - [HTML](#html)
-  - [Ionic](#ionic)
-  - [iOS](#ios)
-  - [Java](#java)
-  - [JavaScript](#javascript)
-  - [jQuery](#jquery)
-  - [Front-end build tools](#front-end-build-tools)
-  - [KnockoutJS](#knockoutjs)
-  - [Less](#less)
-  - [Lisp](#lisp)
-  - [NodeJS](#nodejs)
-  - [Objective-C](#objective-c)
-  - [PHP](#php)
-  - [Python](#python)
-  - [ReactJS](#reactjs)
-  - [Rails](#ruby-on-rails)
-  - [Ruby](#ruby)
-  - [Rust](#rust)
-  - [Sass](#sass)
-  - [Scala](#scala)
-  - [Shell](#shell)
-  - [Spark](#spark)
-  - [Swift](#swift)
-  - [Vue.js](#vuejs)
-  - [Wordpress](#wordpress)
-  - [TypeScript](#typescript)
+## Table of Contents
 
-- [Database technologies](#database-technologies)
-  - [Cassandra](#cassandra)
-  - [Microsoft Access](#microsoft-access)
-  - [MongoDB](#mongodb)
-  - [MySQL](#mysql)
-  - [Neo4j](#neo4j)
-  - [Oracle](#oracle)
-  - [Postgres](#postgres)
-  - [SQL](#sql)
-  - [SQL Lite](#sql-lite)
-- [Caching technologies](#caching-technologies)
-  - [Memcached](#memcached)
-  - [Redis](#redis)
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
 
-- [OS](#os)
-  - [Linux](#linux)
-  - [Windows](#windows)
-- [Algorithms](#algorithms)
-- [Blockchain](#blockchain)
-- [Coding exercises](#coding-exercises)
-- [Comprehensive lists](#comprehensive-lists)
-- [Design patterns](#design-patterns)
-- [Data structures](#data-structures)
-- [Networks](#networks)
-- [Security](#security)
-- [Data Science](#data-science)
-## Programming Languages/Frameworks/Platforms
+  <tr>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Actix-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Actix
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AlpineJS-Dark.svg" alt="icon" width="65" height="65" />
+      <br>AlpineJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AndroidStudio-Dark.svg" alt="icon" width="65" height="65" [Android](#android)/>
+      </a>
+      <br>Android
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Angular-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <a href="#angularjs">
+        <img src="https://material.angularjs.org/latest/img/logo.svg" alt="icon" width="65" height="65" />
+      <br>AngularJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" alt="icon" width="65" height="65" />
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/B/backbone-logo-837E2F8868-seeklogo.com.png" alt="icon" width="65" height="65" />
+      <br>BackboneJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" alt="icon" width="65" height="65" />
+      <br>Bootstrap
+    </td>
+  </tr>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------- -->
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CMake-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Cmake
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" alt="icon" width="65" height="65" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" alt="icon" width="65" height="65" />
+      <br>.NET
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/cakephp-1.svg" alt="icon" width="65" height="65" />
+      <br>CakePHP
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Clojure-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Clojure
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="icon" width="65" height="65" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gherkin-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Cucumber
+    </td>
+  </tr> 
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------- -->
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Dart-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Django.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Electron.svg" alt="icon" width="65" height="65" />
+      <br>ElectronJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Elixir-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Elixir
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ember.svg" alt="icon" width="65" height="65" />
+      <br>EmberJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="icon" width="65" height="65" />
+      <br>ExpressJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/FastAPI.svg" alt="icon" width="65" height="65" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Flask
+    </td>
+  </tr>  
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------- -->
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flutter-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Fortran.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Fortran
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/fsharp.svg" alt="icon" width="65" height="65" />
+      <br>F Sharp
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gatsby.svg" alt="icon" width="65" height="65" />
+      <br>GatsbyJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GoLang.svg" alt="icon" width="65" height="65" />
+      <br>Golang
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gradle-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Gradle
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GraphQL-Dark.svg" alt="icon" width="65" height="65" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Haskell-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Haskell
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="icon" width="65" height="65" />
+      <br>HTML
+    </td>
+  </tr>  
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------- -->    
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/apple1.svg" alt="icon" width="65" height="65" />
+      <br>iOS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" alt="icon" width="65" height="65" />
+      <br>Julia
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JQuery.svg" alt="icon" width="65" height="65" />
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kafka.svg" alt="icon" width="65" height="65" />
+      <br>Kafka
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.pinclipart.com/picdir/big/223-2230502_knockout-js-clipart.png" alt="icon" width="65" height="65" />
+      <br>KnockoutJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kotlin-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kubernetes.svg" alt="icon" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+  </tr>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------- -->   
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Laravel-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/less-63.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Less
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/1200px-Lisp_logo.svg.png" alt="icon" width="65" height="65" />
+      <br>Lisp
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lua-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Lua
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Maven-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Maven
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/nativescript.svg" alt="icon" width="65" height="65" />
+      <br>NativeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NestJS-Dark.svg" alt="icon" width="65" height="65" />
+      <br>NestJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" alt="icon" width="65" height="65" />
+      <br>NextJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NuxtJS-Dark.svg" alt="icon" width="65" height="65" />
+      <br>NuxtJS
+    </td>
+  </tr>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------- -->     
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="icon" width="65" height="65" />
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/OpenShift.svg" alt="icon" width="65" height="65" />
+      <br>OpenShift
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/OpenStack-Dark.svg" alt="icon" width="65" height="65" />
+      <br>OpenStack
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Perl.svg" alt="icon" width="65" height="65" />
+      <br>Perl
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" alt="icon" width="65" height="65" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Powershell-Dark.svg" alt="icon" width="65" height="65" />
+      <br>PowerShell
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Prisma
+    </td>    
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Processing-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Processing
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+  </tr>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------- -->   
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyTorch-Dark.svg" alt="icon" width="65" height="65" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ReactiveX-Dark.svg" alt="icon" width="65" height="65" />
+      <br>ReactiveX
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/RaspberryPi-Dark.svg" alt="icon" width="65" height="65" />
+      <br>RaspberryPI
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="icon" width="65" height="65" />
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="icon" width="65" height="65" />
+      <br>ReactNative
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg" alt="icon" width="65" height="65" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Regex-Dark.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Regex
+    </td>    
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rails.svg" alt="icon" width="65" height="65" />
+      <br>Rails
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ruby.svg" alt="icon" width="65" height="65" />
+      <br>Ruby
+    </td>
+  </tr>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------- -->   
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rust.svg" alt="icon" width="65" height="65" />
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" alt="icon" width="65" height="65" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919834.png" alt="icon" width="65" height="65" />
+      <br>Scala
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Selenium.svg" alt="icon" width="65" height="65" />
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg" alt="icon" width="65" height="65" />
+      <br>SolidJS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Regex-Dark.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Spark
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" alt="icon" width="65" height="65" />
+      <br>SpringBoot
+    </td>        
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Svelte.svg" alt="icon" width="65" height="65" />
+      <br>Svelte
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Swift.svg" alt="icon" width="65" height="65" />
+      <br>Swift
+    </td>
+  </tr>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------- -->   
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" alt="icon" width="65" height="65" />
+      <br>TailwindCSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ThreeJS-Dark.svg" alt="icon" width="65" height="65" />
+      <br>ThreeJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VIM-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Vim
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" alt="icon" width="65" height="65" />
+      <br>VueJS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Webpack-Dark.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/WindiCSS-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Windicss
+    </td>        
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Wordpress.svg" alt="icon" width="65" height="65" />
+      <br>Wordpress
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/xamarin.svg" alt="icon" width="65" height="65" />
+      <br>Xamarin
+    </td>
+  </tr>
+</table> 
 
 ### Android
 
