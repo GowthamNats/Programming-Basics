@@ -61,12 +61,12 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
       <br>Cmake
     </td>
     <td align="center" width="96">
-      <a href="#c-1">
+      <a href="#c">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" alt="icon" width="65" height="65" />
       <br>C
     </td>
     <td align="center" width="96">
-      <a href="#c">
+      <a href="#c-1">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
