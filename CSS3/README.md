@@ -1,4 +1,4 @@
-# CSS Basics
+# CSS3 Basics
 
 ## Table of Contents
 
