@@ -195,7 +195,7 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
     <td align="center" width="96">
       <a href="#html">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="icon" width="65" height="65" />
-      <br>HTML
+      <br>HTML5
     </td>  
     <td align="center" width="96">
       <a href="#ios">
@@ -830,7 +830,7 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
 - [Typescript Interview Questions](https://www.onlineinterviewquestions.com/typescript-interview-questions)
 - [Top 10 TypeScript Interview Questions and Answers for Beginner Web Developers 2019](https://www.positronx.io/typescript-interview-questions-answers-2109/)
 
-### Vue.js
+### VueJS
 
 - [List of 300 VueJS Interview Questions](https://github.com/sudheerj/vuejs-interview-questions)
 
