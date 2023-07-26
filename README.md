@@ -495,6 +495,14 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
 - [Interview Questions for Senior Android Developers](https://github.com/mohsenoid/Android-Interview-Questions)
 - [35+ Android Interview Questions](https://www.interviewbit.com/android-interview-questions/)
 
+### Angular
+
+- [A list of helpful Angular related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/Yonet/Angular-Interview-Questions)
+- [Angular 2 Interview Questions](https://www.onlineinterviewquestions.com/angular2-interview-questions/)
+- [List of 300 Angular Interview Questions and Answers](https://github.com/sudheerj/angular-interview-questions)
+- [Angular Interview Questions (2020)](https://www.interviewbit.com/angular-interview-questions/)
+- [Top Angular Interview Questions and Answers in 2021](https://hackr.io/blog/angular-interview-questions)
+
 ### AngularJS
 
 - [12 Essential AngularJS Interview Questions from Toptal](http://www.toptal.com/angular-js/interview-questions)
@@ -505,14 +513,6 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
 - [This article discusses the top 50 Most occurred AngularJS interview question with answers](http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers)
 - [Top 25 Angularjs Interview Questions and Quiz](http://career.guru99.com/top-25-angular-js-interview-questions/)
 - [100 AngularJS Interview Questions - Quick Refresher](https://www.techbeamers.com/latest-angularjs-interview-questions-answers/)
-
-### Angular
-
-- [A list of helpful Angular related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/Yonet/Angular-Interview-Questions)
-- [Angular 2 Interview Questions](https://www.onlineinterviewquestions.com/angular2-interview-questions/)
-- [List of 300 Angular Interview Questions and Answers](https://github.com/sudheerj/angular-interview-questions)
-- [Angular Interview Questions (2020)](https://www.interviewbit.com/angular-interview-questions/)
-- [Top Angular Interview Questions and Answers in 2021](https://hackr.io/blog/angular-interview-questions)
 
 ### BackboneJS
 
