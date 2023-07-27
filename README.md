@@ -1,10 +1,14 @@
 # Awesome Programming Basics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated table of tables of technical interview questions, programs, coding practices and more.
+A collection of (mostly) technical things every software developer should know. These are resources I can recommend to every programmer regardless of their skill level or tech stack
 
-> Click :star: if you like the project. Pull Requests are highly appreciated.
+Plus there are super-popular Interview questions along with answers, coding exercises,  and some code-snippets that will help you to prepare for technical interviews. Many of these questions are real questions from real interviews. It is by no means comprehensive, and the answers are relatively short ( and for each of the concepts, there are probably better and/or more in depth coverage in the web), but this repo like reference tool, that helps you to prepare for technical interview.
 
-Please read the [contribution guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) or [creating a list guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) if you want to contribute.
+_P.S. You don't need to know all of that by heart to be a programmer. But knowing the stuff will help you become better!_
+
+> Click :star: if you like the project and share with a friendly developer! Pull Requests are highly appreciated.
+
+_Please read the [contribution guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) or [creating a list guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) if you want to contribute._
 
 # Table of Contents
 
