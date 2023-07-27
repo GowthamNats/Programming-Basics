@@ -10,14 +10,19 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
+
   <tr>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Actix-Dark.svg" alt="icon" width="65" height="65" />
       <br>Actix
     </td>
     <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Adonis.svg" alt="icon" width="65" height="65" />
+      <br>AdonisJS
+    </td>    
+    <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AlpineJS-Dark.svg" alt="icon" width="65" height="65" />
-      <br>AlpineJS
+      <br>Alpine.js
     </td>
     <td align="center" width="96">
       <a href="#android">    
@@ -35,41 +40,70 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
       <br>AngularJS
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" alt="icon" width="65" height="65" />
-      <br>Arduino
-    </td>
-    <td align="center" width="96">
-      <a href="#backbonejs">
-        <img src="https://seeklogo.com/images/B/backbone-logo-837E2F8868-seeklogo.com.png" alt="icon" width="65" height="65" />
-      <br>BackboneJS
-    </td>
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ansible.svg" alt="icon" width="65" height="65" />
+      <br>Ansible
+    </td>      
   </tr>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
   <tr>
     <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" alt="icon" width="65" height="65" />
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/A/assemblyscript-logo-9C04F2E860-seeklogo.com.png" alt="icon" width="65" height="65" />
+      <br>AssemblyScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/atlassian-1.svg" alt="icon" width="65" height="65" />
+      <br>Atlassian
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Azure-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <a href="#backbonejs">
+        <img src="https://seeklogo.com/images/B/backbone-logo-837E2F8868-seeklogo.com.png" alt="icon" width="65" height="65" />
+      <br>Backbone.js
+    </td>                          
+    <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" alt="icon" width="65" height="65" />
       <br>Bash
+    </td>  
+  </tr>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/blazor.svg" alt="icon" width="65" height="65" />
+      <br>Blazor
     </td>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" alt="icon" width="65" height="65" />
       <br>Bootstrap
-    </td>  
+    </td>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CMake-Dark.svg" alt="icon" width="65" height="65" />
       <br>Cmake
-    </td>
-    <td align="center" width="96">
-      <a href="#c">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" alt="icon" width="65" height="65" />
-      <br>C
-    </td>
+    </td>    
     <td align="center" width="96">
       <a href="#c-1">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" alt="icon" width="65" height="65" />
+      <br>C
+    </td> 
+    <td align="center" width="96">
+      <a href="#c">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" alt="icon" width="65" height="65" />
       <br>C++
-    </td>
+    </td> 
     <td align="center" width="96">
       <a href="#c-2">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" alt="icon" width="65" height="65" />
@@ -79,7 +113,7 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
       <a href="#net">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" alt="icon" width="65" height="65" />
       <br>.NET
-    </td>
+    </td>                       
   </tr>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -90,42 +124,59 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
       <br>CakePHP
     </td>
     <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Cassandra-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Cassandra
+    </td>
+    <td align="center" width="96">
       <a href="#clojure">    
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Clojure-Dark.svg" alt="icon" width="65" height="65" />
       <br>Clojure
     </td>
     <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Crystal-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Crystal
+    </td>  
+    <td align="center" width="96">
       <a href="#css">    
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="icon" width="65" height="65" />
       <br>CSS3
-    </td>
+    </td> 
     <td align="center" width="96">
       <a href="#cucumber">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gherkin-Dark.svg" alt="icon" width="65" height="65" />
       <br>Cucumber
-    </td>  
+    </td>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Dart-Dark.svg" alt="icon" width="65" height="65" />
       <br>Dart
-    </td>
-    <td align="center" width="96">
-      <a href="#django">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Django.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <a href="#docker">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
+    </td>                        
+
   </tr>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
   <tr>
     <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DENO-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Deno
+    </td> 
+    <td align="center" width="96">
+      <a href="#django">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Django.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td> 
+    <td align="center" width="96">
+      <a href="#docker">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td> 
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/drupal-5.svg" alt="icon" width="65" height="65" />
+      <br>Drupal
+    </td>
+    <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Electron.svg" alt="icon" width="65" height="65" />
-      <br>ElectronJS
+      <br>Electron
     </td>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Elixir-Dark.svg" alt="icon" width="65" height="65" />
@@ -134,16 +185,25 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
     <td align="center" width="96">
       <a href="#emberjs">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ember.svg" alt="icon" width="65" height="65" />
-      <br>EmberJS
-    </td>
+      <br>Ember.js
+    </td>                       
+  </tr>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+  <tr>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="icon" width="65" height="65" />
-      <br>ExpressJS
-    </td>
+      <br>Express.js
+    </td> 
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/FastAPI.svg" alt="icon" width="65" height="65" />
       <br>FastAPI
-    </td>
+    </td> 
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Firebase-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Firebase
+    </td> 
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" alt="icon" width="65" height="65" />
       <br>Flask
@@ -151,55 +211,75 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flutter-Dark.svg" alt="icon" width="65" height="65" />
       <br>Flutter
-    </td>
+    </td>  
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Fortran.svg" alt="icon" width="65" height="65" />
+      <br>Fortran
+    </td>        
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/fsharp.svg" alt="icon" width="65" height="65" />
+      <br>F Sharp
+    </td>              
   </tr>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Fortran.svg" alt="icon" width="65" height="65" />
-      <br>Fortran
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/fsharp.svg" alt="icon" width="65" height="65" />
-      <br>F Sharp
-    </td>
-    <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gatsby.svg" alt="icon" width="65" height="65" />
-      <br>GatsbyJS
+      <br>Gatsby
     </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="icon" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GithubActions-Dark.svg" alt="icon" width="65" height="65" />
+      <br>GitHubActions
+    </td> 
     <td align="center" width="96">
       <a href="#golang">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GoLang.svg" alt="icon" width="65" height="65" />
       <br>Golang
     </td>
     <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GCP-Dark.svg" alt="icon" width="65" height="65" />
+      <br>GCP
+    </td>      
+    <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gradle-Dark.svg" alt="icon" width="65" height="65" />
       <br>Gradle
     </td>
     <td align="center" width="96">
-      <a href="#graphql">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GraphQL-Dark.svg" alt="icon" width="65" height="65" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Haskell-Dark.svg" alt="icon" width="65" height="65" />
-      <br>Haskell
-    </td>
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Grafana-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Grafana
+    </td>                      
   </tr>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
   <tr>
     <td align="center" width="96">
+      <a href="#graphql">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GraphQL-Dark.svg" alt="icon" width="65" height="65" />
+      <br>GraphQL
+    </td>   
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Haskell-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Haskell
+    </td>  
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Hibernate-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Hibernate
+    </td>    
+    <td align="center" width="96">
       <a href="#html">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="icon" width="65" height="65" />
       <br>HTML5
-    </td>  
+    </td>
     <td align="center" width="96">
       <a href="#ios">
-        <img src="https://cdn.worldvectorlogo.com/logos/apple1.svg" alt="icon" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/apple.svg" alt="icon" width="65" height="65" />
       <br>iOS
     </td>
     <td align="center" width="96">
@@ -211,34 +291,51 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
       <a href="#javascript">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" alt="icon" width="65" height="65" />
-      <br>Julia
-    </td>
-    <td align="center" width="96">
-      <a href="#jquery">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JQuery.svg" alt="icon" width="65" height="65" />
-      <br>jQuery
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kafka.svg" alt="icon" width="65" height="65" />
-      <br>Kafka
-    </td>
+    </td>                   
   </tr>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
   <tr>
     <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Jenkins-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Jenkins
+    </td> 
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="icon" width="65" height="65" />
+      <br>Jira
+    </td>   
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/json.svg" alt="icon" width="65" height="65" />
+      <br>JSON
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" alt="icon" width="65" height="65" />
+      <br>Julia
+    </td> 
+    <td align="center" width="96">
+      <a href="#jquery">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JQuery.svg" alt="icon" width="65" height="65" />
+      <br>jQuery
+    </td>  
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kafka.svg" alt="icon" width="65" height="65" />
+      <br>Kafka
+    </td>
+    <td align="center" width="96">
       <a href="#knockoutjs">
         <img src="https://www.pinclipart.com/picdir/big/223-2230502_knockout-js-clipart.png" alt="icon" width="65" height="65" />
-      <br>KnockoutJS
-    </td>
+      <br>Knockout.js
+    </td>                                  
+  </tr>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+  <tr>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kotlin-Dark.svg" alt="icon" width="65" height="65" />
       <br>Kotlin
-    </td>
+    </td> 
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kubernetes.svg" alt="icon" width="65" height="65" />
       <br>Kubernetes
@@ -246,98 +343,143 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Laravel-Dark.svg" alt="icon" width="65" height="65" />
       <br>Laravel
-    </td>
+    </td> 
     <td align="center" width="96">
       <a href="#less">
         <img src="https://cdn.worldvectorlogo.com/logos/less-63.svg" alt="icon" width="65" height="65" />
       <br>Less
+    </td> 
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/linode-1.svg" alt="icon" width="65" height="65" />
+      <br>Linode
+    </td> 
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Linux
     </td>
     <td align="center" width="96">
       <a href="#lisp">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/1200px-Lisp_logo.svg.png" alt="icon" width="65" height="65" />
       <br>Lisp
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lua-Dark.svg" alt="icon" width="65" height="65" />
-      <br>Lua
-    </td>
+    </td>                      
   </tr>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
   <tr>
     <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lua-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Lua
+    </td>
+    <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Maven-Dark.svg" alt="icon" width="65" height="65" />
       <br>Maven
-    </td>
+    </td> 
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/memcached.svg" alt="icon" width="65" height="65" />
+      <br>Memcached
+    </td> 
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="icon" width="65" height="65" />
+      <br>MongoDB
+    </td> 
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td> 
     <td align="center" width="96">
         <img src="https://cdn.worldvectorlogo.com/logos/nativescript.svg" alt="icon" width="65" height="65" />
       <br>NativeScript
     </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" alt="icon" width="65" height="65" />
+      <br>Neo4j
+    </td>                     
+  </tr>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+  <tr>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NestJS-Dark.svg" alt="icon" width="65" height="65" />
       <br>NestJS
     </td>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" alt="icon" width="65" height="65" />
-      <br>NextJS
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Nginx.svg" alt="icon" width="65" height="65" />
+      <br>Nginx
+    </td> 
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="icon" width="65" height="65" />
+      <br>NumPy
     </td>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NuxtJS-Dark.svg" alt="icon" width="65" height="65" />
-      <br>NuxtJS
+      <br>Nuxt.js
     </td>
         <td align="center" width="96">
         <a href="#nodejs">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="icon" width="65" height="65" />
-      <br>NodeJS
+      <br>Node.js
     </td>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/OpenShift.svg" alt="icon" width="65" height="65" />
       <br>OpenShift
-    </td>
+    </td>                        
   </tr>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="icon" width="65" height="65" />
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/OpenShift.svg" alt="icon" width="65" height="65" />
-      <br>OpenShift
-    </td>
-    <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/OpenStack-Dark.svg" alt="icon" width="65" height="65" />
       <br>OpenStack
     </td>
     <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/oracle-corporation-logo.svg" alt="icon" width="65" height="65" />
+      <br>Oracle
+    </td> 
+    <td align="center" width="96">
+        <img src="https://pandas.pydata.org//static/img/favicon_white.ico" alt="icon" width="65" height="65" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Perl.svg" alt="icon" width="65" height="65" />
       <br>Perl
-    </td>
+    </td>   
     <td align="center" width="96">
       <a href="#php">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" alt="icon" width="65" height="65" />
       <br>PHP
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Powershell-Dark.svg" alt="icon" width="65" height="65" />
-      <br>PowerShell
+        <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="icon" width="65" height="65" />
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg" alt="icon" width="65" height="65" />
-      <br>Prisma
-    </td>    
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Powershell-Dark.svg" alt="icon" width="65" height="65" />
+      <br>PowerShell
+    </td>                               
   </tr>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-  <tr>
+  <tr> 
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg" alt="icon" width="65" height="65" />
+      <br>Prisma
+    </td> 
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Processing-Dark.svg" alt="icon" width="65" height="65" />
       <br>Processing
-    </td>
+    </td> 
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prometheus.svg" alt="icon" width="65" height="65" />
+      <br>Prometheus
+    </td> 
     <td align="center" width="96">
       <a href="#python">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="icon" width="65" height="65" />
@@ -348,12 +490,21 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
       <br>PyTorch
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ReactiveX-Dark.svg" alt="icon" width="65" height="65" />
-      <br>ReactiveX
+        <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="icon" width="65" height="65" />
+      <br>R
     </td>
     <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ReactiveX-Dark.svg" alt="icon" width="65" height="65" />
+      <br>ReactiveX
+    </td>                          
+  </tr>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+  <tr>
+    <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/RaspberryPi-Dark.svg" alt="icon" width="65" height="65" />
-      <br>RaspberryPI
+      <br>Raspberry PI
     </td>
     <td align="center" width="96">
       <a href="#reactjs">
@@ -363,12 +514,11 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="icon" width="65" height="65" />
       <br>ReactNative
-    </td>
-  </tr>
-
-<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
-
-  <tr>
+    </td> 
+   <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Redis
+    </td>     
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg" alt="icon" width="65" height="65" />
       <br>Redux
@@ -381,7 +531,12 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
       <a href="#ruby-on-rails">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rails.svg" alt="icon" width="65" height="65" />
       <br>Rails
-    </td>
+    </td>          
+  </tr>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+  <tr>
     <td align="center" width="96">
       <a href="#ruby">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ruby.svg" alt="icon" width="65" height="65" />
@@ -393,6 +548,10 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
       <br>Rust
     </td>
     <td align="center" width="96">
+        <img src="https://booklet.ai/img/docs/integrations/sagemaker_logo.svg" alt="icon" width="65" height="65" />
+      <br>Sagemaker
+    </td>
+    <td align="center" width="96">
       <a href="#sass">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" alt="icon" width="65" height="65" />
       <br>Sass
@@ -401,20 +560,28 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
       <a href="#scala">
         <img src="https://cdn-icons-png.flaticon.com/512/919/919834.png" alt="icon" width="65" height="65" />
       <br>Scala
-    </td>
+    </td> 
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="icon" width="65" height="65" />
+      <br>Seaborn
+    </td> 
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Selenium.svg" alt="icon" width="65" height="65" />
+      <br>Selenium
+    </td>                   
   </tr>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Selenium.svg" alt="icon" width="65" height="65" />
-      <br>Selenium
-    </td>
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/SolidJS-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Solid.js
+    </td> 
     <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg" alt="icon" width="65" height="65" />
-      <br>SolidJS
-    </td>
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Solidity.svg" alt="icon" width="65" height="65" />
+      <br>Solidity
+    </td> 
     <td align="center" width="96">
       <a href="#spark">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Regex-Dark.svg" alt="icon" width="65" height="65" />
@@ -423,7 +590,28 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" alt="icon" width="65" height="65" />
       <br>SpringBoot
-    </td>        
+    </td>
+    <td align="center" width="96">
+        <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" alt="icon" width="65" height="65" />
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" alt="icon" width="65" height="65" />
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="icon" width="65" height="65" />
+      <br>Streamlit
+    </td>                               
+  </tr>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Supabase-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Supabase
+    </td> 
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Svelte.svg" alt="icon" width="65" height="65" />
       <br>Svelte
@@ -436,20 +624,40 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" alt="icon" width="65" height="65" />
       <br>TailwindCSS
+    </td> 
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TensorFlow-Dark.svg" alt="icon" width="65" height="65" />
+      <br>TensorFlow
+    </td> 
+    <td align="center" width="96">
+        <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="icon" width="65" height="65" />
+      <br>Terraform
     </td>
-  </tr>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ThreeJS-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Three.js
+    </td>                           
+  </tr>  
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ThreeJS-Dark.svg" alt="icon" width="65" height="65" />
-      <br>ThreeJS
-    </td>
-    <td align="center" width="96">
       <a href="#typescript">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
+    </td> 
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="icon" width="65" height="65" />
+      <br>Ubuntu
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Unity
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/UnrealEngine.svg" alt="icon" width="65" height="65" />
+      <br>UnrealEngine
     </td>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VIM-Dark.svg" alt="icon" width="65" height="65" />
@@ -458,26 +666,48 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
     <td align="center" width="96">
       <a href="#vuejs">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" alt="icon" width="65" height="65" />
-      <br>VueJS
-    </td>
+      <br>Vue.js
+    </td> 
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/W/web-assembly-logo-F5BFA893E6-seeklogo.com.png" alt="icon" width="65" height="65" />
+      <br>WebAssembly
+    </td>                                                     
+  </tr> 
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+  <tr>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Webpack-Dark.svg" alt="icon" width="65" height="65" />
       <br>Webpack
     </td>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/WindiCSS-Dark.svg" alt="icon" width="65" height="65" />
-      <br>Windicss
-    </td>        
+      <br>WindiCss
+    </td> 
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="icon" width="65" height="65" />
+      <br>Windows
+    </td>
     <td align="center" width="96">
       <a href="#wordpress">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Wordpress.svg" alt="icon" width="65" height="65" />
-      <br>Wordpress
+      <br>WordPress
     </td>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://cdn.worldvectorlogo.com/logos/xamarin.svg" alt="icon" width="65" height="65" />
       <br>Xamarin
-    </td> -->
-  </tr>
+    </td>                  
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/xml-2.svg" alt="icon" width="65" height="65" />
+      <br>XML
+    </td>      
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Zig-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Zig
+    </td>                          
+  </tr>    
+
 </table>
 
 ### Android
