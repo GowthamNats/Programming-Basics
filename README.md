@@ -235,7 +235,7 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
     </td>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GithubActions-Dark.svg" alt="icon" width="65" height="65" />
-      <br>GitHubActions
+      <br>GH Actions
     </td> 
     <td align="center" width="96">
       <a href="#golang">
