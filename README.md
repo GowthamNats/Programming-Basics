@@ -49,6 +49,7 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
 
   <tr>
     <td align="center" width="96">
+      <a href="#arduino">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" alt="icon" width="65" height="65" />
       <br>Arduino
     </td>
@@ -746,6 +747,14 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
 - [This article discusses the top 50 Most occurred AngularJS interview question with answers](http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers)
 - [Top 25 Angularjs Interview Questions and Quiz](http://career.guru99.com/top-25-angular-js-interview-questions/)
 - [100 AngularJS Interview Questions - Quick Refresher](https://www.techbeamers.com/latest-angularjs-interview-questions-answers/)
+
+### Arduino
+
+- [Arduino Education Official Website](https://www.arduino.cc/education)
+- [Arduino Cheat Sheet](https://dlnmh9ip6v2uc.cloudfront.net/learn/materials/8/Arduino_Cheat_Sheet.pdf)
+- [20 Arduino Interview Questions and Answers](https://climbtheladder.com/arduino-interview-questions/)
+- [1000 Arduino MCQs](https://www.sanfoundry.com/1000-arduino-questions-answers/)
+- [300+ Top Arduino Interview Questions and Answers](https://engineeringinterviewquestions.com/arduino-interview-questions-and-answers/)
 
 ### BackboneJS
 
