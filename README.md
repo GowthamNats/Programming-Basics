@@ -1078,10 +1078,6 @@ Please read the [contribution guidelines](https://docs.github.com/en/communities
 
 - [Top 23 Cassandra Interview Questions from Career Guru](http://career.guru99.com/top-23-cassandra-interview-questions/)
 
-### Microsoft Access
-
-- [Top 16 Microsoft Access Database Interview Questions from Career Guru](http://career.guru99.com/top-16-ms-access-database-interview-questions/)
-
 ### MongoDB
 
 - [28 MongoDB NoSQL Database Interview Questions and Answers](http://theprofessionalspoint.blogspot.com.by/2014/01/28-mongodb-nosql-database-interview.html)
