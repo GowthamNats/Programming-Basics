@@ -202,6 +202,7 @@ _Please read the [contribution guidelines](https://docs.github.com/en/communitie
       <br>Express.js
     </td> 
     <td align="center" width="96">
+      <a href="#fastapi">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/FastAPI.svg" alt="icon" width="65" height="65" />
       <br>FastAPI
     </td> 
@@ -846,6 +847,11 @@ _Please read the [contribution guidelines](https://docs.github.com/en/communitie
 
 - [8 Essential Emberjs Interview Questions from Toptal](http://www.toptal.com/emberjs/interview-questions)
 - [Top 25 Emberjs Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-25-ember-js-interview-questions/)
+
+### FastAPI
+- [FastAPI Documentation](https://fastapi.tiangolo.com)
+- [20 FastAPI Interview Questions](https://climbtheladder.com/fastapi-interview-questions/)
+- [FastAPI Cheatsheet](https://lyz-code.github.io/blue-book/fastapi/)
 
 ### Golang
 
